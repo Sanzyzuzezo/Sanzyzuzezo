@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ME_KO_Button" data-name="ME KO Button" class="cls-1" d="M1142,1024.91a5.455,5.455,0,1,0-5.45-5.46A5.471,5.471,0,0,0,1142,1024.91Zm0-10a4.545,4.545,0,1,1-4.55,4.54A4.558,4.558,0,0,1,1142,1014.91Zm4.09,10.91h-8.18a5.9,5.9,0,0,0-5.91,5.91V1034h0.91v-2.27a4.983,4.983,0,0,1,5-5h8.18a4.983,4.983,0,0,1,5,5V1034H1152v-2.27A5.9,5.9,0,0,0,1146.09,1025.82Z" transform="translate(-1129 -1011)"/>
+</svg>

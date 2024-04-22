@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="18" viewBox="0 0 26 18">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="MENU_Button" data-name="MENU Button" class="cls-1" d="M950,1018.55v0.9h20v-0.9H950Zm0,5v0.9h20v-0.9H950Zm0,5v0.9h20v-0.9H950Z" transform="translate(-947 -1015)"/>
+</svg>

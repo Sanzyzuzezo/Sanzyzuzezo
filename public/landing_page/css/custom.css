@@ -1,0 +1,53 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+@font-face{
+	font-family:corsicaitalic;
+    src: url('../fonts/CorsicaMX-BoldIt.ttf')
+}
+
+@font-face{
+	font-family:corsicabold;
+    src: url('../fonts/CorsicaMX-Bold.ttf')
+}
+
+@font-face{
+	font-family:corsicasemibold;
+    src: url('../fonts/CorsicaMX-SemiBold.ttf')
+}
+
+@font-face{
+	font-family:Commune;
+    src: url('../fonts/Commune.otf')
+}
+
+.font-commune{
+	font-family: "Commune" !important;
+}
+
+
+.font-corsica-italic{
+    font-family: "corsicaitalic" !important;
+	font-size:10pt;
+	color:#513011;
+}
+
+.font-corsica-bold{
+    font-family: "corsicabold" !important;
+	font-size:13pt;
+}
+
+.font-corsica-bold-copyright{
+    font-family: "corsicabold" !important;
+	font-size:8pt;
+}
+
+.font-corsica-semibold{
+    font-family: "corsicasemibold" !important;
+	font-size:10pt;
+}
+

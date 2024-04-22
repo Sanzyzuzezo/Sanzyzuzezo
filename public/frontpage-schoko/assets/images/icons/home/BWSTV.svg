@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="26" viewBox="0 0 21 26">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="PLAY_Button" data-name="PLAY Button" class="cls-1" d="M862.114,1034v-20l14.68,10Zm0.79-18.51v17.02L875.4,1024Z" transform="translate(-859 -1011)"/>
+</svg>
